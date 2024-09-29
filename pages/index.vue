@@ -1,6 +1,8 @@
 <script lang="ts" setup>
 import Home from '~/component/Home.vue';
-
+useHead({
+    title:'Home page'
+})
 
 </script>
 

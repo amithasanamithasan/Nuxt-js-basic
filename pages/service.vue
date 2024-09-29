@@ -1,7 +1,9 @@
 <script lang="ts" setup>
 import ServicesList from '~/component/ServicesList.vue';
 import detail from './product/detail.vue';
-
+useHead({
+    title:'Services page'
+})
 </script>
 
 <template>

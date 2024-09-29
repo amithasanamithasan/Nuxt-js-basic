@@ -3,6 +3,9 @@ import About from '~/component/About.vue';
 definePageMeta({
     layouts: 'aboutlayout'
 })
+useHead({
+    title:'About page'
+})
 </script>
 
 <template>
