@@ -5,10 +5,12 @@
 <template>
     <h1>This is Product pages</h1>
     <div>
-    <h1>{{ route}}</h1>
+    <h1>{{ id}}</h1>
     </div>
 </template>
 
 <script lang="ts" setup>
-    const route= useRoute().params.id
+    const{id}= useRoute().params
+
+    definePageMeta({layouts:'product'})
 </script>

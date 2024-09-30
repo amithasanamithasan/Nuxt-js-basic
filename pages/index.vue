@@ -21,7 +21,7 @@ const decriment =()=>{
 <template>
     <div>
 <Home></Home>
-<Datafatch></Datafatch>
+
 
     <h2>{{ state.number }}</h2>
         <button class="bg-yellow-300 text-2xl rounded-lg hover:bg-green-900  " 
