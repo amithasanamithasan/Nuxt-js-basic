@@ -1,7 +1,9 @@
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-##[PRICE_RECIPE DEPLOY PROJECT](https://thriving-toffee-9aafbe.netlify.app/)
+
+#[PRICE_RECIPE DEPLOY PROJECT](https://thriving-toffee-9aafbe.netlify.app/)
+
 ## Setup
 
 Make sure to install the dependencies:
